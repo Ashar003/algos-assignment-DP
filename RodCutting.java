@@ -1,5 +1,6 @@
 /**
  * Rod cutting problem described in Chapter 15 of textbook
+ * Author: Akash Sharma
  */
 public class RodCutting {
   //int q = Integer.MIN_VALUE;  doesn't work globally, so locally is the way to go.
